@@ -13,6 +13,24 @@ header {
     text-align: center;
 }
 
+/* GiTO IPTV Player logo */
+.logo {
+    width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px;
+    border-radius: 15px;
+}
+
+header h1 {
+    color: white;
+    margin-top: 10px;
+}
+
+header p {
+    color: #e5e7eb;
+}
+
 nav {
     background: white;
     padding: 15px;
